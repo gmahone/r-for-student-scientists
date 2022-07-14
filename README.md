@@ -9,5 +9,8 @@ Creating an R-based science curriculum for students. Aiming at high school level
    - Variables
    - Conditionals
    - Looping
+ - Data, Reading and Writing
+ - Simple Statistics
+ - Data Visualization
 
 
