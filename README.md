@@ -1,0 +1,2 @@
+# r-for-student-scientists
+Creating an R-based science curriculum for students. Aiming at high school level.
