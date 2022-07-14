@@ -5,9 +5,9 @@ Creating an R-based science curriculum for students. Aiming at high school level
  - Introduction of R
  - R packages & CRAN
  - R Syntax and Language Features
-  -- Simple Mathematics via R
-  - Variables
-  - Conditionals
-  - Looping
+   - Simple Mathematics via R
+   - Variables
+   - Conditionals
+   - Looping
 
 
