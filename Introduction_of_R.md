@@ -8,6 +8,8 @@
 
 ### RStudio
 
+RStudio is a pretty popular choice in the R community. It is R-focused and therefore has limited functionality if you work in a multi-language context.
+
 ### VSCode
 
 ### Vim + Flavors
