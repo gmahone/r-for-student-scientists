@@ -12,4 +12,6 @@
 
 ### Vim + Flavors
 
+Only a few words to Vim, Emacs, etc. If you are using such an IDE you probably are familiar with docs and don't need to learn anything from this book.
+
 ## 
