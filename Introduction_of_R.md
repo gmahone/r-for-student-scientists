@@ -2,6 +2,11 @@
 
 ## Downloading and Installing R
 
+[Link for most systems](https://cran.r-project.org/bin/)
+[Link for Windows](https://cran.r-project.org/bin/windows/base/)
+
+Ideally, in order to learn R you should use the newest available and stable release. The advantages are, for starting out, you won't need to manage dependencies and out of date libraries, etc. This is pretty useful if you are a non-advanced developer with no knowledge or things like conda, docker, etc.
+
 ## Starting with R - A Brief Tour
 
 ## Using an IDE for R
