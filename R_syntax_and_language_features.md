@@ -5,3 +5,6 @@
 ## Conditionals
 
 ## Loops
+
+## Functions
+
