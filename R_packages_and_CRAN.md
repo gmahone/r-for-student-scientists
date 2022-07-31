@@ -6,4 +6,4 @@
 
 ## CRAN Package Repository
 
-## Creating and R Package
+## Creating an R Package
