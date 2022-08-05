@@ -12,5 +12,8 @@
 
 ## Loops
 
+### for()
+### while()
+
 ## Functions
 
