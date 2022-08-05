@@ -4,3 +4,5 @@
 
 ## Hypothesis testing
 
+## Random number generation
+
