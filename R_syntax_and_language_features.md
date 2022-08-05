@@ -6,6 +6,10 @@
 
 ## Conditionals
 
+### if()
+### else
+### ifelse()
+
 ## Loops
 
 ## Functions
