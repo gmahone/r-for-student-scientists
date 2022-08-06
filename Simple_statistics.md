@@ -6,5 +6,7 @@ Mean, median, range, var, sd
 
 ## Hypothesis testing
 
+t-test
+
 ## Random number generation
 
