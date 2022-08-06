@@ -17,3 +17,9 @@
 
 ## Functions
 
+### Reason for use
+
+DRY
+
+### Best practice
+### Recursion
