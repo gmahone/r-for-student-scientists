@@ -7,6 +7,7 @@
 ### Use and examples
 ### Naming conventions
 ### Best practice
+### Scope
 
 ## Conditionals
 
