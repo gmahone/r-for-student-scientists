@@ -6,6 +6,7 @@
 
 ### Use and examples
 ### Naming conventions
+### Best practice
 
 ## Conditionals
 
