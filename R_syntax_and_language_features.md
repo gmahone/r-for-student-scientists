@@ -5,6 +5,7 @@
 ## Variables
 
 ### Use and examples
+### Naming conventions
 
 ## Conditionals
 
