@@ -4,6 +4,8 @@
 
 ## Variables
 
+### Use and examples
+
 ## Conditionals
 
 ### if()
